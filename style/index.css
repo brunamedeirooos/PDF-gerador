@@ -1,0 +1,17 @@
+#generate-pdf {
+  background-color: dodgerblue;
+  border: none;
+  padding: 8px;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  margin-top: 40px;
+  
+}
+
+#generate-pdf:hover {
+  background-color: deepskyblue;
+  cursor: pointer;
+  transition: 0.4s all;
+}
